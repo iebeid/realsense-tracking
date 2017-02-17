@@ -1,0 +1,11 @@
+﻿Build started 12/25/2016 7:54:18 AM.
+     1>Project "C:\Users\islam\Desktop\RealSenseTrackedPrespective\RealSenseTracker\RealSenseTracker\RealSenseTracker.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\dev\vrpn\include /I"D:\dev\SOIL\Simple OpenGL Image Library\src" /ID:\dev\glfw\include /ID:\dev\glew\include /ID:\dev\opencv\build\include /I"C:\Program Files (x86)\Intel\RSSDK\include" /Zi /nologo /W3 /WX- /sdl /Ox /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\islam\Desktop\RealSenseTrackedPrespective\RealSenseTracker\RealSenseTracker\x64\Release\\" /Fd"C:\Users\islam\Desktop\RealSenseTrackedPrespective\RealSenseTracker\RealSenseTracker\x64\Release\vc120.pdb" /Gd /TP /wd4244 /wd4267 /wd4005 /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\islam\desktop\realsensetrackedprespective\realsensetracker\realsensetracker\vrpn_tracker_rs.h(21): fatal error C1083: Cannot open include file: 'opencv2\highgui\highgui.hpp': No such file or directory
+     1>Done Building Project "C:\Users\islam\Desktop\RealSenseTrackedPrespective\RealSenseTracker\RealSenseTracker\RealSenseTracker.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.59

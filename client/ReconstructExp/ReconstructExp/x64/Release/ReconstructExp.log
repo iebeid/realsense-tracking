@@ -1,0 +1,15 @@
+﻿Build started 2/16/2017 9:10:10 PM.
+     1>Project "D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\ReconstructExp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\dev\glfw\include /ID:\dev\glew\include /ID:\dev\glm\include /ID:\dev\vrpn\include /Zi /nologo /W3 /WX- /sdl /Ox /Oi /GL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\\" /Fd"D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\vc120.pdb" /Gd /TP /wd4251 /wd4290 /wd4101 /wd4267 /wd4275 /wd4244 /wd4305 /wd4005 /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\ReconstructExp.exe" /NOLOGO /LIBPATH:"D:\dev\glfw\lib-vc2013" /LIBPATH:D:\dev\glew\lib /LIBPATH:D:\dev\vrpn\lib glew32.lib opengl32.lib glfw3.lib vrpn.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCMT /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\ReconstructExp.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\ReconstructExp.lib" /MACHINE:X64 D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\main.obj
+         Generating code
+         Finished generating code
+         ReconstructExp.vcxproj -> D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\x64\Release\ReconstructExp.exe
+     1>Done Building Project "D:\Projects\UALR\Research\Experiments\RealSenseTrackedPrespective\Sources\VisualStudioProjects\ReconstructExp\ReconstructExp\ReconstructExp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.23
